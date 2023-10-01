@@ -32,7 +32,8 @@ Make sure you choose your characters between 8 and 128
 Make sure you choose at least one of the specifications asked (lowercase, uppercase, symbols, and numerics)
 
 ## Authors
-
+Xander Rapstine
+Xandromus
 Contributors names and contact info
 Daniel Vega
 https://www.youtube.com/watch?v=v2jfGo7ztm8
